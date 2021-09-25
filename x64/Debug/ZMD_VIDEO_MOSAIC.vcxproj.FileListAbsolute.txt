@@ -1,0 +1,2 @@
+C:\Users\freis\source\repos\ZMD_VIDEO_MOSAIC\x64\Debug\ZMD_VIDEO_MOSAIC.exe
+C:\Users\freis\source\repos\ZMD_VIDEO_MOSAIC\x64\Debug\ZMD_VIDEO_MOSAIC.pdb
